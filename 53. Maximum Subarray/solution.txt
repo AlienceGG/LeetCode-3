@@ -1,0 +1,18 @@
+Maximum Subarray
+Find the contiguous subarray within an array (containing at least one number) which has the largest sum.
+
+For example, given the array [−2,1,−3,4,−1,2,1,−5,4], the contiguous subarray [4,−1,2,1] has the largest sum = 6.
+
+这题是一道经典的dp问题，我们可以很容易的得到其dp方程，假设dp[i]是数组a [0, i]区间最大的值，那么
+
+dp[i + 1] = max(dp[i], dp[i] + a[i + 1])
+
+
+虽然这道题目用dp解起来很简单，但是题目说了，问我们能不能采用divide and conquer的方法解答，也就是二分法。
+
+假设数组A[left, right]存在最大区间，mid = (left + right) / 2，那么无非就是三中情况：
+
+最大值在A[left, mid - 1]里面
+最大值在A[mid + 1, right]里面
+最大值跨过了mid，也就是我们需要计算[left, mid - 1]区间的最大值，以及[mid + 1, right]的最大值，然后加上mid，三者之和就是总的最大值
+我们可以看到，对于1和2，我们通过递归可以很方便的求解，然后在同第3的结果比较，就是得到的最大值。
