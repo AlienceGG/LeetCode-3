@@ -54,7 +54,7 @@ LeetCode
 |47.| Permutations II | Medium |![](yet.png)| ![](yet.png)||
 |48.| Rotate Image | Medium |![](yet.png)| ![](yet.png)||
 |49.| Group Anagrams | Medium |![](yet.png)| ![](yet.png)||
-|50.| Pow(x| n) | Medium |![](yet.png)| ![](yet.png)||
+|50.| Pow | Medium |![](yet.png)| ![](yet.png)||
 |51.| N-Queens | Hard |![](yet.png)| ![](yet.png)||
 |52.| N-Queens II | Hard |![](yet.png)| ![](yet.png)||
 |53.| Maximum Subarray | Medium |![](yet.png)| ![](yet.png)||
