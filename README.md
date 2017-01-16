@@ -3,6 +3,13 @@ LeetCode
 
 定个小目标，做他100道。
 
+请每周更新做题进度，以便互相监督。
+
+欢迎在题目对应文件夹下上传解答。例如：simei.cpp，li.py
+
+请添加必要的注释，以便自己和他人回看。
+
+
 |NO.|Title|Difficulty|Jianghan|Simei|Due Date|
 |---|-----|----------|--------|-----|--------|
 |1.| Two Sum | Easy |![](done.png)| ![](done.png)||
