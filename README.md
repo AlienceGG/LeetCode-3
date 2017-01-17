@@ -14,7 +14,7 @@ LeetCode
 |---|-----|----------|--------|-----|--------|
 |1.| Two Sum | Easy |![](done.png)| ![](done.png)||
 |2.| Add Two Numbers | Medium |![](done.png)| ![](done.png)||
-|3.| Longest Substring Without Repeating Characters | Medium |![](yet.png)| ![](yet.png)||
+|3.| Longest Substring Without Repeating Characters | Medium |![](yet.png)| ![](done.png)||
 |4.| Median of Two Sorted Arrays | Hard |![](yet.png)| ![](yet.png)||
 |5.| Longest Palindromic Substring | Medium |![](yet.png)| ![](yet.png)||
 |6.| ZigZag Conversion | Easy |![](yet.png)| ![](yet.png)||
