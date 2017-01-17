@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/container-with-most-water/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给一些挡板，选两个挡板，求最大蓄水容量。

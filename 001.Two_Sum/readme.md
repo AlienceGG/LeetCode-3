@@ -2,7 +2,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/two-sum/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 一个数组中两个位置上的数的和恰为 target，求这两个位置。  
@@ -22,7 +22,7 @@
   
 ### **Link**:  
 Problem: https://leetcode.com/problems/two-sum/  
-Newest solutions in my Github: https://github.com/illuz/leetcode  
+Newest solutions in my Github: https://github.com/JianghanLi/LeetCode  
   
 ### **Analysis**：  
 Brute-force finding will get TLE, because the time complexity is high O(n^2).  

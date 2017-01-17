@@ -3,7 +3,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/Median-of-Two-Sorted-Arrays/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 求两个有序数组的中位数。要求复杂度是 O(log(n + m))。
@@ -22,7 +22,7 @@
 
 **Link**:
 Problem: https://leetcode.com/problems/Median-of-Two-Sorted-Arrays/  
-Newest solutions in my Github: https://github.com/illuz/leetcode
+Newest solutions in my Github: https://github.com/JianghanLi/LeetCode
 
 **Analysis**：
 Two ways to get it.  

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/string-to-integer-atoi/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 将一个字符串转化为 int 型。  

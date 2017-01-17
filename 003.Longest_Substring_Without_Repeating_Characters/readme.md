@@ -3,7 +3,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 从标题就可以知道题意了，是求一个字符串中最长的不含重复字符的子串。  
@@ -23,7 +23,7 @@
   
 **Link**:  
 Problem: https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/  
-Newest solutions in my Github: https://github.com/illuz/leetcode  
+Newest solutions in my Github: https://github.com/JianghanLi/LeetCode  
   
 **Analysis**：  
 Generate an array to record the last position of current character.  

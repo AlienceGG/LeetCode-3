@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/Longest-Palindromic-Substring/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
 
 ### **题意**：
 求一个字符串中的最长回文子串。  

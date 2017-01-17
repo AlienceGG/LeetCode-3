@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/Reverse-Integer/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 反转一个数。  
