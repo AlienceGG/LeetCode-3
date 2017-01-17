@@ -38,9 +38,12 @@ public:
         
         // recursion
         /// compare the k/2 th numbers in v1 and v2
+		/// because there must be k-1 numbers smaller that the kth number and one array must have more
+		/// by comparing their k/2 th number, we can figure out which array it is
         int i = min(m, k / 2), j = min(n, k / 2);
-		/// the vector that has a smaller k/2 th number won't have the kth in its first k/2 numbers => remove them
-        if (v1[i - 1] > v2[j - 1])
+		/// the array that has a smaller k/2 th number has more numbers smaller than kth number
+		/// so it won't have the kth in its first k/2 numbers => remove them
+		if (v1[i - 1] > v2[j - 1])
         {
             vector<int> newV2(v2.begin() + j, v2.end());
             return getkth(v1, newV2, k - j);
