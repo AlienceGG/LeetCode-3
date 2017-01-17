@@ -20,10 +20,9 @@ public:
     }
     
     // create a recursive function to get the kth value from two arrays
-    // similar to the fusion algo for array sorting
+    // similar to recursion in binary search
     int getkth(vector<int>& v1, vector<int>& v2, int k)
     {
-        
         // get sizes
         int m = v1.size(), n = v2.size();
         
@@ -39,8 +38,8 @@ public:
         
         // recursion
         /// compare the k/2 th numbers in v1 and v2
-        /// the vector that has a smaller k/2 th number won't have the kth in its first k/2 th numbers => remove them
         int i = min(m, k / 2), j = min(n, k / 2);
+		/// the vector that has a smaller k/2 th number won't have the kth in its first k/2 numbers => remove them
         if (v1[i - 1] > v2[j - 1])
         {
             vector<int> newV2(v2.begin() + j, v2.end());
