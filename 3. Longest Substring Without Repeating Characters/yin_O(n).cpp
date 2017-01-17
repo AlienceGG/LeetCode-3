@@ -13,11 +13,11 @@ public:
             {
                 // change left character position to the next charachter of last occurence
                 // add a comparison here to avoid error for cases like "abba"
-                i = (i > hash[s[j]] + 1) ? i : hash[s[j]] + 1;
+                i = max(i, hash[s[j]] + 1);
             }
             
             // update result
-            res = (res > j - i + 1) ? res : j - i + 1;
+            res = max(res, j - i + 1);
             
             // add index
             hash[s[j]] = j;

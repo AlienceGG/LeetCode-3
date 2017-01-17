@@ -13,7 +13,7 @@ public:
             if (hash.find(s[i]) != hash.end())
             {
                 // reset size
-                res = (res < currSize) ? currSize : res;
+                res = max(res, currSize);
                 currSize = 1;
                 
                 // reset hash table
@@ -30,7 +30,7 @@ public:
             ++i;
         }
         
-        res = (res < currSize) ? currSize : res;
+        res = max(res, currSize);
         
         return res;
     }
