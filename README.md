@@ -26,7 +26,7 @@ LeetCode
 |12.| Integer to Roman | Medium |![](yet.png)| ![](yet.png)||
 |13.| Roman to Integer | Easy |![](yet.png)| ![](yet.png)||
 |14.| Longest Common Prefix | Easy |![](yet.png)| ![](yet.png)||
-|15.| 3Sum | Medium |![](yet.png)| ![](yet.png)||
+|15.| 3Sum | Medium |![](yet.png)| ![](yet.png)|23/01/2017|
 |16.| 3Sum Closest | Medium |![](yet.png)| ![](yet.png)||
 |17.| Letter Combinations of a Phone Number | Medium |![](yet.png)| ![](yet.png)||
 |18.| 4Sum | Medium |![](yet.png)| ![](yet.png)||
@@ -41,7 +41,7 @@ LeetCode
 |27.| Remove Element | Easy |![](yet.png)| ![](yet.png)||
 |28.| Implement strStr() | Easy |![](yet.png)| ![](yet.png)||
 |29.| Divide Two Integers | Medium |![](yet.png)| ![](yet.png)||
-|30.| Substring with Concatenation of All Words | Hard |![](yet.png)| ![](yet.png)|01/2017|
+|30.| Substring with Concatenation of All Words | Hard |![](yet.png)| ![](yet.png)||
 |31.| Next Permutation | Medium |![](yet.png)| ![](yet.png)||
 |32.| Longest Valid Parentheses | Hard |![](yet.png)| ![](yet.png)||
 |33.| Search in Rotated Sorted Array | Hard |![](yet.png)| ![](yet.png)||
