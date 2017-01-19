@@ -17,10 +17,10 @@ LeetCode
 |3.| Longest Substring Without Repeating Characters | Medium |![](yet.png)| ![](done.png)||
 |4.| Median of Two Sorted Arrays | Hard |![](yet.png)| ![](done.png)||
 |5.| Longest Palindromic Substring | Medium |![](yet.png)| ![](yet.png)||
-|6.| ZigZag Conversion | Easy |![](yet.png)| ![](yet.png)||
-|7.| Reverse Integer | Easy |![](yet.png)| ![](yet.png)||
-|8.| String to Integer (atoi) | Easy |![](yet.png)| ![](yet.png)||
-|9.| Palindrome Number | Easy |![](yet.png)| ![](yet.png)||
+|6.| ZigZag Conversion | Easy |![](yet.png)| ![](done.png)||
+|7.| Reverse Integer | Easy |![](yet.png)| ![](done.png)||
+|8.| String to Integer (atoi) | Easy |![](yet.png)| ![](done.png)||
+|9.| Palindrome Number | Easy |![](yet.png)| ![](done.png)||
 |10.| Regular Expression Matching | Hard |![](yet.png)| ![](yet.png)||
 |11.| Container With Most Water | Medium |![](yet.png)| ![](yet.png)||
 |12.| Integer to Roman | Medium |![](yet.png)| ![](yet.png)||
