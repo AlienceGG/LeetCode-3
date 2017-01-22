@@ -14,12 +14,13 @@ class Solution(object):
     ret = []
     for i in filter(lambda i: s[i] == 'I', range(len(s))):
       ret.extend(range(i + 1, len(ret), -1))
+      print ret
     ret.extend(range(len(s) + 1, len(ret), -1))
     return ret
 
 ############### test cases ###################
 s = Solution()
-print s.findPermutation("DI")
+print s.findPermutation("DIDDID")
 
 
 # loop on condition: 循环＋判断条件
@@ -37,11 +38,15 @@ print s.findPermutation("DI")
 #   2. Insert a decreasing numbers to complete the result.
 #
 # Simple example:
-# Input: "DDIDDDID"
-# Result = []
-# Result = [2,1]
-# Result = [2,1,5,4,3]
-# Result = [2,1,5,4,3,6]
-# Then, output is [2,1,5,4,3,6]
+# Input: "DIDDID"
+# 0 []
+# 1 [2, 1]
+# 2 [2, 1]
+# 3 [2, 1]
+# 4 [2, 1, 5, 4, 3]
+# 5 [2, 1, 5, 4, 3]
+# [2, 1, 5, 4, 3, 7, 6]
+
+# Then, output is [2, 1, 5, 4, 3, 7, 6]
 #
 # https://discuss.leetcode.com/topic/76208/python-simple-o-n-solution-in-5-lines/2
