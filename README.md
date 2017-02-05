@@ -21,7 +21,7 @@ LeetCode
 |7.| Reverse Integer | Easy |![](yet.png)| ![](done.png)||
 |8.| String to Integer (atoi) | Easy |![](yet.png)| ![](done.png)||
 |9.| Palindrome Number | Easy |![](yet.png)| ![](done.png)||
-|10.| Regular Expression Matching | Hard |![](yet.png)| ![](yet.png)||
+|10.| Regular Expression Matching | Hard |![](yet.png)| ![](done.png)||
 |11.| Container With Most Water | Medium |![](yet.png)| ![](done.png)||
 |12.| Integer to Roman | Medium |![](yet.png)| ![](done.png)||
 |13.| Roman to Integer | Easy |![](yet.png)| ![](done.png)||
@@ -30,8 +30,8 @@ LeetCode
 |16.| 3Sum Closest | Medium |![](yet.png)| ![](yet.png)||
 |17.| Letter Combinations of a Phone Number | Medium |![](yet.png)| ![](yet.png)||
 |18.| 4Sum | Medium |![](yet.png)| ![](yet.png)||
-|19.| Remove Nth Node From End of List | Easy |![](yet.png)| ![](yet.png)||
-|20.| Valid Parentheses | Easy |![](yet.png)| ![](yet.png)||
+|19.| Remove Nth Node From End of List | Easy |![](yet.png)| ![](done.png)||
+|20.| Valid Parentheses | Easy |![](yet.png)| ![](done.png)||
 |21.| Merge Two Sorted Lists | Easy |![](yet.png)| ![](yet.png)||
 |22.| Generate Parentheses | Medium |![](yet.png)| ![](yet.png)||
 |23.| Merge k Sorted Lists | Hard |![](yet.png)| ![](yet.png)||
