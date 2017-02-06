@@ -40,7 +40,7 @@ public:
 			{
 			    // i is perfect : 
 			    /// (j == 0 or i == m or B[j-1] <= A[i]) and
-			    /// (i == 0 or j = n or A[i-1] <= B[j])
+			    /// (i == 0 or j == n or A[i-1] <= B[j])
 				break;
 			}
 		}

@@ -6,11 +6,12 @@
 代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
-求两个 List 相加产生的新的一个 List。  
+求两个表示整数的链表相加产生的新链表。head是最低位，next是更高位。
   
 ### **分析**：  
-直接模拟就可以了。  
-  
+链表题。按链表方向从低位向高位读取，直接模拟就可以了。唯一的难度是进位的处理。
+可与445.Add Two Numbers II https://leetcode.com/problems/add-two-numbers-ii/ 进行比较
+
 ---  
   
 **(English version)**  
