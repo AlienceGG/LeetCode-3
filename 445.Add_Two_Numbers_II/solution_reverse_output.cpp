@@ -1,4 +1,6 @@
-ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int n1 = 0, n2 = 0, carry = 0;
         ListNode *curr1 = l1, *curr2 = l2, *res = NULL;
         while( curr1 ){ curr1=curr1->next; n1++; }
@@ -26,7 +28,7 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         temp->next = head;
         return temp;
     }
-
+};
 
 // Idea is to reverse output instead of input. Not sure if this is cheating.
 //https://discuss.leetcode.com/topic/67586
