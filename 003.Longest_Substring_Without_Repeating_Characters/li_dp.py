@@ -22,5 +22,8 @@ class Solution:
 s = Solution()
 print s.lengthOfLongestSubstring("abcabcbb")
 
-# 偷懒用了dp，性能在list.find上有损失。如果用dict来记录每个字母最近索引，应该可以达到O(n)
+# 偷懒用了dp，性能在list.find上有损失。(不知道算不算dp)
+# 维护一个str，初始化为空str。
+# 然后遍历input中的字符c, str=str.subString[str.indexOf(c)]+1]
+# 如果用dict来记录每个字母最近索引，应该可以达到O(n)，见solution.py
 # Tags: Hash Table Two Pointers String
