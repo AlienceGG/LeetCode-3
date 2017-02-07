@@ -15,13 +15,13 @@ public:
         ListNode* res;
         if (l1->val <= l2->val)
         {
-            res = new ListNode(l1->val);
-            res->next = mergeTwoLists(l1->next, l2);
+            l1->next = mergeTwoLists(l1->next, l2);
+            return l1;
         }
         else
         {
-            res = new ListNode(l2->val);
-            res->next = mergeTwoLists(l1, l2->next);
+            l2->next = mergeTwoLists(l1, l2->next);
+            return l2;
         }
         return res;   
     }
