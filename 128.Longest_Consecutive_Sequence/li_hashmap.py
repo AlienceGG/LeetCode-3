@@ -55,3 +55,5 @@ print s.longestConsecutive2([100, 4, 200, 1, 3, 2])
 # 遍历hashmap，对于出现的数字，判断左右连续数字最大长度。把遍历的数字都删掉
 
 # 方法2是不修改hashmap，判断是不是起点，然后查找右侧
+
+# 可以学习Stefan，在python中使用set转化。

@@ -16,17 +16,23 @@ class ListNode(object):
 class Solution(object):
 
   def addTwoNumbers(self, l1, l2):
-    """
-    :type l1: ListNode
-    :type l2: ListNode
-    :rtype: ListNode
-    """
     v1, v2 = 0, 0
     while l1:
       v1 *= 10
       v1 += l1.val
       l1 = l1.next
+    while l2:
+      v2 *= 10
+      v2 += l2.val
+      l2 = l2.next
+    v = v1 + v2
 
-
-s = Solution()
-print s.nextGreaterElements([1, 2, 1])
+    if v == 0:
+      return ListNode(0)
+    l = None
+    while v:
+      tmp = ListNode(v % 10)
+      v = v // 10
+      tmp.next = l
+      l = tmp
+    return l
