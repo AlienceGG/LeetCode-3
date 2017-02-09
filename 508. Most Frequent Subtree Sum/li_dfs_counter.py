@@ -12,6 +12,8 @@ class TreeNode(object):
     self.left = None
     self.right = None
 
+from collections import Counter
+
 
 class Solution(object):
 
@@ -20,8 +22,9 @@ class Solution(object):
     :type root: TreeNode
     :rtype: List[int]
     """
-    import collections
-    ctr = collections.Counter()
+    # import collections
+    # ctr = collections.Counter()
+    ctr = Counter()
     if root == None:
       return []
     self.countSubtreeSum(root, ctr)
