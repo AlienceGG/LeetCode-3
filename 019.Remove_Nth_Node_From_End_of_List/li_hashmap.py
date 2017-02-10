@@ -32,3 +32,5 @@ class Solution(object):
     else:
       count[pos - n - 1].next = count[pos - n + 1]
     return head
+
+# 用hashmap记录位置索引和node指针。
