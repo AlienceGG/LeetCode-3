@@ -21,5 +21,3 @@ s = Solution()
 print s.majorityElement([])
 print s.majorityElement([3, 2, 3])
 print s.majorityElement([1, 2, 1, 2, 5])
-
-#
