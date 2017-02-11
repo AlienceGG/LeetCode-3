@@ -1,3 +1,4 @@
+
 /*
 *  Author:      illuz <iilluzen[at]gmail.com>
 *  File:        AC_dp_n*m.cpp
@@ -22,7 +23,7 @@ public:
         for (int i = 0; i <= n; ++i) {
             dp[i][0] = 1;
         }
-        
+
         for (int i = 1; i <= n; ++i) {
             for (int j = 1; j <= m; ++j) {
                 if (S[i - 1] == T[j - 1])
