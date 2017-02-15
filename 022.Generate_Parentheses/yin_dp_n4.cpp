@@ -3,7 +3,7 @@ public:
     // we can generate parentheses step by step
     vector<string> generateParenthesis(int n)
     {
-        // a table to stock all precedent steps
+        // an array to stock all precedent steps
         vector<vector<string>> steps;
         
         // Init : step 0
