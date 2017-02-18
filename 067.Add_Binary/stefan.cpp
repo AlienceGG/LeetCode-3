@@ -4,9 +4,9 @@ struct Solution {
             swap(a, b);
         int i = a.size(), j = b.size();
         while (i--) {
-            if (j) a[i] += b[--j] & 1;
-            if (a[i] > '1') {
-                a[i] -= 2;
+            if (j) a[i] += b[--j] & 1; //char转int 可能位操作效率比较高
+            if (a[i] > '1') { //判断需要进位，用char做比较
+                a[i] -= 2; //a[i] -= 2;
                 if (i) a[i-1]++; else a = '1' + a; //for carry
             }
         }
