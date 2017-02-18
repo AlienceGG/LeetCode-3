@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/surrounded-regions/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给一个地图，把地图里被 X 包围的 O 块填充为 X。

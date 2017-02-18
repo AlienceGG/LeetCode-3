@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/delete-node-in-a-linked-list/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 

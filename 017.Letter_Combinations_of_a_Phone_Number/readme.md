@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/letter-combinations-of-a-phone-number/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 在手机上按字母，给出按的数字键，问所有的按的字母的情况。

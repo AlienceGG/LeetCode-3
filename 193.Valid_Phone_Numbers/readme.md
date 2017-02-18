@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/valid-phone-numbers/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 用 Shell Script 输出 `(xxx) xxx-xxxx` or `xxx-xxx-xxxx` 格式的号码。

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/merge-two-sorted-lists/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 合并两个有序链表。

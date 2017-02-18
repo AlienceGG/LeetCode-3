@@ -60,7 +60,7 @@ private:
         return sz;
     }
 
-    // these codes are the same as https://github.com/illuz/leetcode/blob/master/solutions/092.Reverse_Linked_List_II/AC_simulate_n.cpp
+    // these codes are the same as https://github.com/JianghanLi/LeetCode/blob/master/solutions/092.Reverse_Linked_List_II/AC_simulate_n.cpp
     ListNode *reverseBetween(ListNode *head, int m, int n) {
         ListNode *mhead = new ListNode(0), *prev, *cur;
         mhead->next = head;    // because m will be 0

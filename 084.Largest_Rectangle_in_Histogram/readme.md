@@ -2,7 +2,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/largest-rectangle-in-histogram/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 求一些宽为 1 的矩形条的最大矩形。  

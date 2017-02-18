@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/validate-binary-search-tree/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 判断一个树是否是搜索二叉树 (BST)  

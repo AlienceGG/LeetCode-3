@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/merge-k-sorted-lists/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 和  [021. Merge Two Sorted Lists (Easy)](http://blog.csdn.net/hcbbt/article/details/44064639) 类似，这次要 Merge K 个。

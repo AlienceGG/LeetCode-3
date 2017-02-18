@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/minimum-window-substring/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给一个原字符串 S，和一个匹配串 T，求 S 最小的子串（窗口）包含全部 T 的字符。  

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/contains-duplicate  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 问一个数组中有没有重复的数。

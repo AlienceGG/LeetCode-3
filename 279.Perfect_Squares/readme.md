@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/perfect-squares/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给出一个数，要求把这个数用最少的平方数分解，求最少用几个。

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/search-insert-position/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 要把一个数有序插入到一个有序数组里，问插入的位置。

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 为一个排过序的数组建一棵平衡的 BST。

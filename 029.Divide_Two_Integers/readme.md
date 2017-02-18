@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/divide-two-integers/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 实现除法，不能用乘、除和取模。

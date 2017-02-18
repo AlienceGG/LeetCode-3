@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/word-ladder/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给出起点，终点的单词，每次变换要从 dict 中找到一个单词，且只变换一个字母。  

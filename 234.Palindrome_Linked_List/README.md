@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/palindrome-linked-list/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 判断一个单链表是否是回文。

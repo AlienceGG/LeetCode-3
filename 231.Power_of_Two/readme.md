@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/power-of-two/
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 判断一个数是否是 2 的 x 次方。

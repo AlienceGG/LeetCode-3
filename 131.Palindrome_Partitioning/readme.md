@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/palindrome-partitioning/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 把一个字符串分割，使每一部分都是回文。

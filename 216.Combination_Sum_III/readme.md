@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/combination-sum-iii/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 从 1-9 中取出 k 个数，使他们的和是 n，问所有的取法。

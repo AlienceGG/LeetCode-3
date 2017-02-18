@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/combination-sum/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给出一些正整数集合，以及一个目标数，从集合中选择一些数使得它们的和等于目标数，可以重复选择集合里的数。  

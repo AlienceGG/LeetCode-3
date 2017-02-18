@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/word-frequency/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 统计 word.txt 里的单词和频数，然后按频数从小到大排序输出。

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/copy-list-with-random-pointer/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 求一个链表的完全复制。

@@ -2,7 +2,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/distinct-subsequences/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 问有 S 中有几个子串是 T，S 的子串定义为在 S 中任意去掉 0 个或者多个字符形成的串。  

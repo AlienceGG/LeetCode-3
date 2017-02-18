@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/nim-game/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 很经典的博弈游戏，两个人从一堆石头中轮流取出 1-3 个石头，谁先取完谁就赢了。  

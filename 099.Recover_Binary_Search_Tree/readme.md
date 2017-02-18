@@ -2,7 +2,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/recover-binary-search-tree/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 一棵 BST 有两个节点的值不小心互换了，要你把这棵树恢复了。  

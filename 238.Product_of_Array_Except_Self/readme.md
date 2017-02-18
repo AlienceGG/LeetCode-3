@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/product-of-array-except-self/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 把一个数组中的每个数 替换为 这个数组中除了它自身的其它数的积。

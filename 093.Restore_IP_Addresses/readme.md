@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/restore-ip-addresses/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
 
 ### **题意**：
 给一个都是字母的字符串，加上点后可能会变成合法的 IP 地址，求一个字符串的所有合法地址。  

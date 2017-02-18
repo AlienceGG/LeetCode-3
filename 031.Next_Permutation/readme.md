@@ -2,7 +2,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/next-permutation/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 求一个序列的下一个排列。  

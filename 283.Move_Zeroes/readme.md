@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/move-zeroes/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 把数组里的 0 都移动到右边。

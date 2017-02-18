@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/3sum-closest/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 在给定数列中找出三个数，使和最接近 target。

@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 从前序中序遍历建树。

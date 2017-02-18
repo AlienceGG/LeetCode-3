@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/search-for-a-range/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 在有序数组中找到一个数的范围。（因为数有重复）

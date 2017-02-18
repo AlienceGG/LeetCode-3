@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/missing-number/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 一个有 n 个元素数组，是由 0~n 去掉一个元素后构成的，求找出那个元素。

@@ -2,7 +2,7 @@
   
 ### **链接**：  
 题目：https://leetcode.com/problems/interleaving-string/  
-代码(github)：https://github.com/illuz/leetcode  
+代码(github)：https://github.com/JianghanLi/LeetCode  
   
 ### **题意**：  
 问 s3 是否是 s1 和 s2 交错得到的。  

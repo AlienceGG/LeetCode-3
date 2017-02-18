@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 Google 著名的反转二叉树问题，把整棵树横着反转过去。  
@@ -11,4 +11,4 @@ Google 著名的反转二叉树问题，把整棵树横着反转过去。
 ### **分析**：
 
 其实这是一个遍历问题。可以递归做也可以用栈做。  
-我在考虑能不能用 O(1) 空间的算法来解开这个（类似 [099. Recover Binary Search Tree](https://github.com/illuz/leetcode/tree/master/solutions/099.Recover_Binary_Search_Tree) 用到的 Threaded binary tree），然而并不行，因为这题的目的是反转。
+我在考虑能不能用 O(1) 空间的算法来解开这个（类似 [099. Recover Binary Search Tree](https://github.com/JianghanLi/LeetCode/tree/master/solutions/099.Recover_Binary_Search_Tree) 用到的 Threaded binary tree），然而并不行，因为这题的目的是反转。

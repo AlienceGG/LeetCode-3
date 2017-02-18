@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/maximum-gap/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给你一个无序的数列，问在排序中相邻两数之差的最大值是多少，要求线性时间复杂度。

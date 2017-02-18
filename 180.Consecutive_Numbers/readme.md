@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/consecutive-numbers/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 查询一个表中连续出现 3 次一上的 Num。

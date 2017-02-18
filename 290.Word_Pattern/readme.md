@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/word-pattern/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给出 pattern 和 str，问 pattern 里的字符串和 str 里的单词是否一一配对。

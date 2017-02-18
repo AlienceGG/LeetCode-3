@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/gas-station/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 提供数组 gas、cost，gas表示第i个点的汽油量，cost表示从i到i+1所需的汽油量，问是否有一点，出发能驶过所有点(路径是环)。

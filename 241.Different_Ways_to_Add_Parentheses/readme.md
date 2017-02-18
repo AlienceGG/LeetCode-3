@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/different-ways-to-add-parentheses/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给一个式子每一步操作都加上括号，会有不同的结果，把所有结果都输出来。

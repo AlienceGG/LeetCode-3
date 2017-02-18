@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/text-justification/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给出一些单词和一个宽度，要你把单词打包成宽度一样的字符串数组。  

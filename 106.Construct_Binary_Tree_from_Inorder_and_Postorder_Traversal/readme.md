@@ -2,7 +2,7 @@
 
 ### **链接**：
 https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 从中序后序遍历建树。

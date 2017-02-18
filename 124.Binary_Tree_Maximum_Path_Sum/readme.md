@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/binary-tree-maximum-path-sum/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 求一棵二叉树上的最大路径。

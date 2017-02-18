@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/submissions/detail/26084443/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 
@@ -13,4 +13,4 @@
 ### **分析**：
 
 1. 可以直接模拟，用 HashMap 可以很方便地做。
-2. 参考 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 的 [Two Point 解法](https://github.com/illuz/leetcode/tree/master/solutions/141.Linked_List_Cycle) 来做，很方便的。
+2. 参考 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 的 [Two Point 解法](https://github.com/JianghanLi/LeetCode/tree/master/solutions/141.Linked_List_Cycle) 来做，很方便的。

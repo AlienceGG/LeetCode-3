@@ -2,7 +2,7 @@
 
 ### **链接**：
 题目：https://leetcode.com/problems/4sum/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 给一个数列 S ,找出四个数 a,b,c,d 使得`a + b + c + d = target`。

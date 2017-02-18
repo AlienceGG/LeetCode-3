@@ -2,7 +2,7 @@ me of Life (Medium)
 
 ### **链接**：
 题目：https://leetcode.com/problems/game-of-life/  
-代码(github)：https://github.com/illuz/leetcode
+代码(github)：https://github.com/JianghanLi/LeetCode
 
 ### **题意**：
 
