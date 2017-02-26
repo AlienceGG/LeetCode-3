@@ -50,11 +50,7 @@ def get_problem_map():
     global total
     problem_map = {}
     for path, subdirs, files in os.walk('../problems'):
-        # bypass .
-        if len(path) < 2:
-            continue
-        # fix gdb file in mac
-        if '.git' in path:
+        if len(path) < 2 or '.git' in path or path == '../problems':
             continue
         problem_name = path[2:]
         problem_map[problem_name] = get_solution_info_by_files(files)
@@ -70,7 +66,7 @@ def print_table(problem_map):
     global solved
     global total
     head = open('head.txt', 'r')
-    readme = open('README.md', 'w')
+    readme = open('../README.md', 'w')
     for line in head:
         print >> readme, line,
     head.close()
@@ -80,15 +76,15 @@ def print_table(problem_map):
         problem_id = long_name[10:13]
         problem_name = re.sub('_', ' ', long_name[14:])
         short_name = problem_name if len(problem_name) < 46 else problem_name[:42] + '... '
-        p = '| ' + problem_id + ' | [' + short_name + '](' + long_name + ') | '
+        p = '| ' + problem_id + ' | [' + short_name + '](' + long_name[1:] + ') | '
         # add solution_info
         if solution_info:
-            p += ' ![](done.png) |' if solution_info['li'] else ' ![](yet.png) |'
-            p += ' ![](done.png) |' if solution_info['yin'] else ' ![](yet.png) |'
+            p += ' ![](src/done.png) |' if solution_info['li'] else ' ![](src/yet.png) |'
+            p += ' ![](src/done.png) |' if solution_info['yin'] else ' ![](src/yet.png) |'
             p += '&nbsp;' * 8 + '[Notes](' + long_name + ')' + '&nbsp;' * 8 + '|'\
                 if solution_info['notes'] else ' &nbsp;Coming soon |'
         else:
-            p += ' ![](yet.png) | ![](yet.png) | &nbsp;Coming soon &nbsp;|'
+            p += ' ![](src/yet.png) | ![](src/yet.png) | &nbsp;Coming soon &nbsp;|'
         print >> readme, p
 
     readme.close()
