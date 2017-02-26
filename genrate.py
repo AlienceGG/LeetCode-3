@@ -69,17 +69,12 @@ def get_problem_map():
 def print_table(problem_map):
     global solved
     global total
-    title = [
-        "LeetCode",
-        "========",
-        "请在题目对应文件夹下提交解答, 开头使用作者名字。例如：yin.cpp，li.py",
-        "请在解答内，写清思路，添加必要的注释，以便自己和他人回看。",
-        "建议写清作者，方便引用。"]
-    for l in title:
-        print(l)
+    head = open('head.txt', 'r')
+    readme = open('README.md', 'w')
+    for line in head:
+        print >> readme, line,
+    head.close()
 
-    print('| No.| Problem | Han | Yin | Note |')
-    print('|----|---------|-----|-----|------|')
     for long_name, solution_info in problem_map:
         # problem_id, short_name(link)
         problem_id = long_name[:3]
@@ -94,7 +89,9 @@ def print_table(problem_map):
                 if solution_info['notes'] else ' &nbsp;Coming soon |'
         else:
             p += ' ![](yet.png) | ![](yet.png) | &nbsp;Coming soon &nbsp;|'
-        print(p)
+        print >> readme, p
+
+    readme.close()
 
 if __name__ == '__main__':
     problem_map = get_problem_map()
