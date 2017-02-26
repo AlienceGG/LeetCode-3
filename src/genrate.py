@@ -49,7 +49,7 @@ def get_problem_map():
     global solved
     global total
     problem_map = {}
-    for path, subdirs, files in os.walk('./problems'):
+    for path, subdirs, files in os.walk('../problems'):
         # bypass .
         if len(path) < 2:
             continue
@@ -77,15 +77,15 @@ def print_table(problem_map):
 
     for long_name, solution_info in problem_map:
         # problem_id, short_name(link)
-        problem_id = long_name[:3]
-        problem_name = re.sub('_', ' ', long_name[4:])
-        short_name = long_name if len(long_name) < 48 else long_name[:44] + '... '
-        p = '| ' + problem_id + ' | [' + short_name[4:] + '](' + long_name + ') | '
+        problem_id = long_name[10:13]
+        problem_name = re.sub('_', ' ', long_name[14:])
+        short_name = problem_name if len(problem_name) < 46 else problem_name[:42] + '... '
+        p = '| ' + problem_id + ' | [' + short_name + '](' + long_name + ') | '
         # add solution_info
         if solution_info:
             p += ' ![](done.png) |' if solution_info['li'] else ' ![](yet.png) |'
             p += ' ![](done.png) |' if solution_info['yin'] else ' ![](yet.png) |'
-            p += '&nbsp;' * 8 + '[Notes](./problems/' + long_name + ')' + '&nbsp;' * 8 + '|'\
+            p += '&nbsp;' * 8 + '[Notes](' + long_name + ')' + '&nbsp;' * 8 + '|'\
                 if solution_info['notes'] else ' &nbsp;Coming soon |'
         else:
             p += ' ![](yet.png) | ![](yet.png) | &nbsp;Coming soon &nbsp;|'
